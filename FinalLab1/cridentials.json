@@ -1,0 +1,23 @@
+{
+"cridentials":[
+    {"site":"site1.com", "login":"roma", "password":"pass123"},
+    {"site":"site2.com", "login":"romadub", "password":"pass456"},
+    {"site":"site3.com", "login":"user1", "password":"pass789"},
+    {"site":"site4.com", "login":"rrr", "password":"pass000"},
+    {"site":"site5.com", "login":"aaa", "password":"pass111"},
+    {"site":"site6.com", "login":"mmm", "password":"passmmm"},
+    {"site":"site7.com", "login":"www", "password":"passwww"}
+]
+}
+
+{
+"cridentials":[
+    {"site":"site1.com", "logpass":"0237cf9ab7677e184bec1e580d14505e5c434f7f051a0b004ad332af7d59809908cf3e07bcaa5afda9ea48f5023d49b7"},
+    {"site":"site2.com", "logpass":"d137b1c778b0199cb144fc91ccbc63e5d9b39cc212f069cac552e61c71f9e533de287f7979f5a45f640d4903963fbb9f"},
+    {"site":"site3.com", "logpass":"98a28a52806628ec075cfb6b3bf317cc85e563204b6a5ffa1800b36798adfde4c85a55e1037b922d34b1354f8f93dc3a"},
+    {"site":"site4.com", "logpass":"8689579e7113ff3a62d472fd1b0775cd0330af33b47aea626a7126fad73eac84cf627bab25dfc9068955d1292a911d99"},
+    {"site":"site5.com", "logpass":"ea2c8f1bbe04a44b6d4d0be15d04ea951f65343114530b6d2d081cc32ad9dc2358ee483c49a5d093164c5a71684ae5a7"},
+    {"site":"site6.com", "logpass":"ec1714e78e981d0d9e4cc84196b44e5e25b7ad5fcc35806c57fb31219ee47cdcc8318833b9e4bd52646844e1f96a1e8a"},
+    {"site":"site7.com", "logpass":"961d3a6af3bc80caef11cb17d445c6e375963ba362cedd257b4d26a58162b59a94ad1cfe9b6e4c6d414303c0d062bb82"}
+]
+}
